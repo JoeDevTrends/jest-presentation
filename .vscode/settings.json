@@ -1,14 +1,14 @@
 {
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.colorCustomizations": {
-        "terminalCursor.foreground": "#F40174",
-        "activityBar.background": "#ec7ad0",
+        "terminalCursor.foreground": "#C63D13",
+        "activityBar.background": "#C63D13",
         "activityBar.foreground": "#15202b",
         "activityBar.inactiveForeground": "#15202b99",
         "activityBarBadge.background": "#fa1f0f",
         "activityBarBadge.foreground": "#e7e7e7",
-        "statusBar.background": "#ec7ad0",
-        "statusBarItem.hoverBackground": "#F40174",
+        "statusBar.background": "#C63D13",
+        "statusBarItem.hoverBackground": "#75260d",
         "statusBar.foreground": "#15202b"
     },
     "peacock.affectStatusBar": true,
